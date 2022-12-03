@@ -4,9 +4,8 @@
 
 This is the Github Repository of Team UMIC Aerial as a part of its presentation for the Autonomous Indoor Drone Challenge for the Flipkart GRiD 2.0 Finals. 
 
-## SImulation
-
-<img src="/simulation/env.png" width="40%" height="40%"/> <img src="/simulation/frames.png" width="40%" height="40%"/><br>
+## Simulation
+<img src="/simulation/test_run.gif" width="80%" height="80%"/><br>
 <img src="/simulation/cv.png" width="80%" height="80%"/> <img src="/simulation/orb.png" width="80%" height="80%"/><br>
 
 View our presentation [here](https://docs.google.com/presentation/d/1q41zMC_UbNGbAHIGFE4aE1hauuWfcn3W7wGaTNxw93Q/edit?usp=sharing)
