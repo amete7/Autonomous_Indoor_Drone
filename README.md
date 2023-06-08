@@ -8,7 +8,7 @@ This is the Github Repository of Team UMIC Aerial as a part of its presentation 
 <img src="/simulation/test_run.gif" width="80%" height="80%"/><br>
 <img src="/simulation/cv.png" width="80%" height="80%"/> <img src="/simulation/orb.png" width="80%" height="80%"/><br>
 
-View our presentation [here](https://docs.google.com/presentation/d/1q41zMC_UbNGbAHIGFE4aE1hauuWfcn3W7wGaTNxw93Q/edit?usp=sharing)
+View our presentation [here](https://docs.google.com/presentation/d/1lw9WT0kmgi1UNA7mjwo3ow8dIRZ5A5MPrDHEiwp2Hmg/edit?usp=sharing)
 
 ## Installation
 
